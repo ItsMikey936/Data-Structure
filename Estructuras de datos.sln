@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caja", "Caja\Caja.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pila", "Pila\Pila.csproj", "{80A6E9CC-38B9-44B2-A2DB-4C864B946192}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroesOfLINQ", "HeroesOfLINQ\HeroesOfLINQ.csproj", "{D2DF713A-3184-41C8-87D6-8EB3A0C46D20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{80A6E9CC-38B9-44B2-A2DB-4C864B946192}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80A6E9CC-38B9-44B2-A2DB-4C864B946192}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80A6E9CC-38B9-44B2-A2DB-4C864B946192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2DF713A-3184-41C8-87D6-8EB3A0C46D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2DF713A-3184-41C8-87D6-8EB3A0C46D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2DF713A-3184-41C8-87D6-8EB3A0C46D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2DF713A-3184-41C8-87D6-8EB3A0C46D20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
